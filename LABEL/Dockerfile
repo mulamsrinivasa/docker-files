@@ -1,5 +1,5 @@
 FROM almalinux:9
-LABEL COURSE="DevSecOps" \
-      TRAINER="Siva Kumar Reddy" \
-      INSTITUE="joindevops.com" \
-      DURATION="4 months"
+LABEL Course="DevSecOps" \
+      Trainer="Siva Kumar Reddy" \
+      Institute="joindevops.com" \
+      Duration="4 months"
